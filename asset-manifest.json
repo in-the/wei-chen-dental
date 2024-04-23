@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wei-chen-dental/static/css/main.8803b3af.css",
+    "main.js": "/wei-chen-dental/static/js/main.594d99a6.js",
+    "static/js/453.1819a73f.chunk.js": "/wei-chen-dental/static/js/453.1819a73f.chunk.js",
+    "static/media/portrait-close-up.jpeg": "/wei-chen-dental/static/media/portrait-close-up.d34f9c743c89ebc761ff.jpeg",
+    "static/media/swish-dental-logo.png": "/wei-chen-dental/static/media/swish-dental-logo.d912efefe150e8c99b47.png",
+    "static/media/logo-black.png": "/wei-chen-dental/static/media/logo-black.32b9304f5b94594e0468.png",
+    "index.html": "/wei-chen-dental/index.html",
+    "main.8803b3af.css.map": "/wei-chen-dental/static/css/main.8803b3af.css.map",
+    "main.594d99a6.js.map": "/wei-chen-dental/static/js/main.594d99a6.js.map",
+    "453.1819a73f.chunk.js.map": "/wei-chen-dental/static/js/453.1819a73f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8803b3af.css",
+    "static/js/main.594d99a6.js"
+  ]
+}
